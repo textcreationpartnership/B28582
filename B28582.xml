@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem on the King and Queen of fairy.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28582</idno><idno type="EEBO-CITATION">99888214</idno>
+  <idno type="VID">200997</idno>
+  <idno type="EEBO-PROQUEST">2240885078</idno>
+  
+            <idno type="STC">Wing P27697B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[29]</idno>
+            <idno type="STC">ESTC R229178</idno>
+            <idno type="PROQUEST">ocm99888214</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888214e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200997)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem on the King and Queen of fairy.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) .   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>Text in two columns, initials.</note>
+                  <note>First line: "Upon a time the fairy elves."</note>
+                  <note>Reproduction of original in British Library.</note>
+                  <note>Text in English and Latin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fairies --  England --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Fairy poetry, English --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:200997:1"/>
+            <head>A <hi>POEM</hi> on the King and Queen of <hi>FAIRY.</hi>
+            </head>
+            <lg>
+               <l>UPon a time the Fairy Elves,</l>
+               <l>Having first <hi>arrayed themselves,</hi>
+               </l>
+               <l>Thought it Meet to Cloath their King</l>
+               <l>In Robes most fit for Revelling.</l>
+            </lg>
+            <lg>
+               <l>He had a Cob-web Shirt more thin;</l>
+               <l>Then ever Spider since could Spin,</l>
+               <l>Bleach'd in the Whiteness of the Snow</l>
+               <l>When the <hi>Northern</hi> Winds do blow.</l>
+            </lg>
+            <lg>
+               <l>In that waste and open Air,</l>
+               <l>No Shirt half so fine or Fair.</l>
+               <l>A Rich Wast-coat they did bring</l>
+               <l>Made of the Trout-flie's Golden Wing.</l>
+            </lg>
+            <lg>
+               <l>Dy'd Crimson in a Maidens Blush,</l>
+               <l>And lin'd with humming Bees soft Plush,</l>
+               <l>At which his Elveship 'gan to Fret,</l>
+               <l>And Swore 'twould cast him in a Sweat.</l>
+            </lg>
+            <lg>
+               <l>He for his coolness needs would wear,</l>
+               <l>A Wast-coat made of Downy-Hair,</l>
+               <l>When taken from an Eunuchs Chin.</l>
+               <l>It pleas'd him well, 'twas Wond'rous thin.</l>
+            </lg>
+            <lg>
+               <l>His Hat was all of Ladies Love,</l>
+               <l>So passing Light that it would move,</l>
+               <l>If any Gnat or Humming fly</l>
+               <l>But beat the Air in passing by.</l>
+            </lg>
+            <lg>
+               <l>About it went a Wreath of Pearl</l>
+               <l>Dropt from the Eyes of some poor Girl,</l>
+               <l>Pincht because she had forgot</l>
+               <l>To leave clean Water in the Pot.</l>
+            </lg>
+            <lg>
+               <l>His Breaches and his Cassock were</l>
+               <l>Made of the Tinsell Garsummer,</l>
+               <l>Down its Seam there went a Lace,</l>
+               <l>Drawn by an Unctious Snail's slow pace.</l>
+            </lg>
+            <div type="part">
+               <head>On the QƲEEN.</head>
+               <lg>
+                  <l>NO sooner was their King attyr'd</l>
+                  <l>As never Prince had been,</l>
+                  <l>But, as in duty was requir'd,</l>
+                  <l>They next Array their Queen.</l>
+               </lg>
+               <lg>
+                  <l>Of Shinning Threed shut from the Sun</l>
+                  <l>And Twisted into line,</l>
+                  <l>On the light Wheel of Fortune Spun,</l>
+                  <l>Was made her Smock so fine.</l>
+               </lg>
+               <lg>
+                  <l>Her Gown was very Coloured fair,</l>
+                  <l>The Rain-Bow gave the dip;</l>
+                  <l>Perfumed by an Amber Air</l>
+                  <l>Breath'd from a Virgins Lip.</l>
+               </lg>
+               <lg>
+                  <l>The Stuff was of a Morning dawn</l>
+                  <l>When <hi>Phaebus</hi> did but peep,</l>
+                  <l>But by a Poets Pencil drawn</l>
+                  <l>In <hi>Chloris</hi> lap a Sleep.</l>
+               </lg>
+               <lg>
+                  <l>Her Vail was White and pale Fac'd by</l>
+                  <l>Invented by a Maid.</l>
+                  <l>When she (poor Soul) by some bad Spy</l>
+                  <l>Had newly been betray'd.</l>
+               </lg>
+               <lg>
+                  <l>Her Neck-Lace was of Subtile tye</l>
+                  <l>Of Glorious Atoms set.</l>
+                  <l>In the pure Black of Beautys Eye</l>
+                  <l>As they had been in Jet.</l>
+               </lg>
+               <lg>
+                  <l>Her Shoes were all of Maiden Heads</l>
+                  <l>So passing Thin and Light.</l>
+                  <l>That all her care was how to Trade,</l>
+                  <l>A thought had burst them quite.</l>
+               </lg>
+               <lg>
+                  <l>The Revels ended she put off,</l>
+                  <l>Because her Grace was Warm,</l>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>th a Ladi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rm.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>MOnticolae quondam Lamiae circumdatae amictu</l>
+                  <l>Corpora praetenui choreis &amp; lusibus apto;</l>
+                  <l>Talibus inde suum Regem quo{que} vestibus ornant</l>
+                  <l>Quae deceant numeros{que} leves Festas{que} choreas.</l>
+               </lg>
+               <lg>
+                  <l>Ejus araneoli scutulata subucula Filo</l>
+                  <l>Rarior, eximiae quod texuit artis Arachne:</l>
+                  <l>Intactae{que} nivis fuit insolata nitore,</l>
+                  <l>Quam rigidus gelidâ Boreas diffundit ab Arcto.</l>
+               </lg>
+               <lg>
+                  <l>Nec sub Hyperboreo tam pura cam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sia tractu</l>
+                  <l>Ʋs{que} adeò tenuis tam{que} alba apparuit usquam</l>
+                  <l>Proxima cura fuit tunicellam imponere Regi</l>
+                  <l>Hepiali textam mire ex aurantibus alis.</l>
+               </lg>
+               <lg>
+                  <l>Virginis eximiae roseo quae tincta rubore;</l>
+                  <l>At{que} apis Hybleae duplicata est vellere molli:</l>
+                  <l>Tum fremere &amp; jurare Heros gestamine tanto</l>
+                  <l>Pressus, &amp; exili manare a Corpore sudor.</l>
+               </lg>
+               <lg>
+                  <l>Post, refrigerij causa, subtile theristrum</l>
+                  <l>Curari fecit consutum more d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>coro,</l>
+                  <l>Nuper ab eunuchi malâ &amp; lanugine sumptum:</l>
+                  <l>Hoc placuit, quia erat tenui Subtemine textum.</l>
+               </lg>
+               <lg>
+                  <l>Ejus erat (capitis tegumentum Insigne) galerus</l>
+                  <l>Ʋt Referunt, è Femineo conflatus amore;</l>
+                  <l>Qui levis us{que} adeo fuit ut sine fine moveret</l>
+                  <l>Aera si Cynips vel praetereundo feriret.</l>
+               </lg>
+               <lg>
+                  <l>Ambijt hunc circum speciosa &amp; Gemmea spirae</l>
+                  <l>Ex oculis tenerae tremulis modo lapsa Puellae,</l>
+                  <l>Quam malè multarunt Lemures quod linquere in oll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Oblita est puras, nocturno tempore lymphas.</l>
+               </lg>
+               <lg>
+                  <l>Deni{que} fiebant saga cum Femoralibus ejus</l>
+                  <l>Lineolâ è tenui per summa cacumina campi</l>
+                  <l>Extensâ, quorum suturam rara tegebat</l>
+                  <l>Jnstita ducta pigri limacis tramite pingui.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>In Reginam.</head>
+               <lg>
+                  <l>POstquam Rex tali fuit Insignitus amictu</l>
+                  <l>Membra cui Regum nulla tulere parem</l>
+                  <l>Mox etiam, veluti ratio poscebat &amp; aequum</l>
+                  <l>Reginae parili corpora veste tegunt.</l>
+               </lg>
+               <lg>
+                  <l>Illius ex Auro clarâ de lumine solis</l>
+                  <l>Emisso scite facta erat interula.</l>
+                  <l>Stamina cujus erant solerti pollice ducta,</l>
+                  <l>Sortis in amb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>guae torta levi{que} rotâ.</l>
+               </lg>
+               <lg>
+                  <l>Palla fuit qualem spectabilis induit Iris,</l>
+                  <l>Quam varijs radijs pingit Apollo suis.</l>
+                  <l>Talis odor qualis fragranti spirat ab ambra,</l>
+                  <l>Halitus aut qualis Virginis esse solet.</l>
+               </lg>
+               <lg>
+                  <l>Materies fuit Aurorae de lumine primo</l>
+                  <l>Phoebus ubi Eois surgit Honorus aquis.</l>
+                  <l>Peniculo vatis qui pingebatur amatae</l>
+                  <l>Chloridis in Gremio membra quiete levans.</l>
+               </lg>
+               <lg>
+                  <l>Candidulum{que} habuit velamen, pallidulum{que}</l>
+                  <l>dextra Puellaris texuit illud opus,</l>
+                  <l>Qui color idem erat ac pellucet in ore Puella</l>
+                  <l>Prodita ab infausto quae modo forte Viro.</l>
+               </lg>
+               <lg>
+                  <l>Illjus orba decens ornabat colla monile</l>
+                  <l>Formosam pulchris conspicuis{que} Atomis,</l>
+                  <l>Quae velut in puro nigroque nagagate suissent</l>
+                  <l>Imposita miris emicuere modis.</l>
+               </lg>
+               <lg>
+                  <l>Calceo li{que} sui perquam tenues{que} levesque</l>
+                  <l>Facti de claustris Virginitatis erant.</l>
+                  <l>His Igitur verita est incedere, nam{que} pusillas</l>
+                  <l>Sensus amoris eos rumperet abs{que} mora.</l>
+               </lg>
+               <lg>
+                  <l>Ludis ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctis, quoniam sudore madebat</l>
+                  <l>Confestim vestes exuit ipse suas.</l>
+                  <l>Et se Fem<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eo V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>avit scommate da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>Nec quidquam da<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ni pertuli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
